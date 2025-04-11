@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm currently working on developing snake in Java using JavaFX
+- I'm currently learning to use Java code
+- Pronouns: She/her
+- Fun Fact 
 <!--
 **DorysLost/DorysLost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
